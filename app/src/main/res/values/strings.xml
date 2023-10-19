@@ -1,5 +1,10 @@
 <resources>
     <string name="app_name">GitHubSearch</string>
-    <string name="nome_usuario">Nome do usuário</string>
+    <string name="nome_usuario">Nome do Usuário</string>
     <string name="confirmar">Confirmar</string>
+    <string name="pesquisar_usuario">Pesquisar Usuário</string>
+    <string name="imagemWifiOff" />
+    <string name="semWifi" />
+    <string name="response_error" />
+    <string name="descricao_ic_share" />
 </resources>

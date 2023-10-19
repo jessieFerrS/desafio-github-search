@@ -1,7 +1,12 @@
-# desafio-github-search
-Criando um App Android para compartilhar seu portfolio de projeto 
 
-Criar um App Android simples que armazene um usuário do GitHub (informado em uma tela inicial) e liste todos os seus repositórios públicos. Garanta que o nome do usuário seja salvo e o App tenha a capacidade de redefinir essa informação.
+# 📱 App GitHubSearch 
 
-![image](https://user-images.githubusercontent.com/5827265/188474294-4472bcc0-24ee-4ccd-80a8-7cee0372e7fa.png)
+App Android criado no Android Studio com linguagem Kotlin, que pede um nome de usuário e exibe todos os repositórios públicos do usuário no GitHub.
 
+## Screenshots
+
+* Tela Inicial
+![Screenshot_20231019_163223](https://github.com/jessieFerrS/desafio-github-search/assets/114115950/8a45ebf2-6c6a-48f0-8e4f-1d3ab6625bc2)
+
+* Tela com repositórios públicos do usuário
+![Screenshot_20231019_163102](https://github.com/jessieFerrS/desafio-github-search/assets/114115950/6515e6f9-19f3-4d4d-93a4-2e2e4d15a4f6)
